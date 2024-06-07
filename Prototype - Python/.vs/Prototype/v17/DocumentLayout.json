@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TheOGLynx\\OneDrive\\Desktop\\Dissertation\\Python\\Prototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E43373FB-2080-401E-8F33-BA837DAD7942}|Prototype\\Prototype.pyproj|C:\\Users\\TheOGLynx\\OneDrive\\Desktop\\Dissertation\\Python\\Prototype\\Prototype\\utils\\processor.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E43373FB-2080-401E-8F33-BA837DAD7942}|Prototype\\Prototype.pyproj|solutionrelative:Prototype\\utils\\processor.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43373FB-2080-401E-8F33-BA837DAD7942}|Prototype\\Prototype.pyproj|C:\\Users\\TheOGLynx\\OneDrive\\Desktop\\Dissertation\\Python\\Prototype\\Prototype\\utils\\transcriber.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E43373FB-2080-401E-8F33-BA837DAD7942}|Prototype\\Prototype.pyproj|solutionrelative:Prototype\\utils\\transcriber.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43373FB-2080-401E-8F33-BA837DAD7942}|Prototype\\Prototype.pyproj|C:\\Users\\TheOGLynx\\OneDrive\\Desktop\\Dissertation\\Python\\Prototype\\Prototype\\prototype.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E43373FB-2080-401E-8F33-BA837DAD7942}|Prototype\\Prototype.pyproj|solutionrelative:Prototype\\prototype.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43373FB-2080-401E-8F33-BA837DAD7942}|Prototype\\Prototype.pyproj|C:\\Users\\TheOGLynx\\OneDrive\\Desktop\\Dissertation\\Python\\Prototype\\Prototype\\utils\\recording.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E43373FB-2080-401E-8F33-BA837DAD7942}|Prototype\\Prototype.pyproj|solutionrelative:Prototype\\utils\\recording.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43373FB-2080-401E-8F33-BA837DAD7942}|Prototype\\Prototype.pyproj|C:\\Users\\TheOGLynx\\OneDrive\\Desktop\\Dissertation\\Python\\Prototype\\Prototype\\utils\\server.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E43373FB-2080-401E-8F33-BA837DAD7942}|Prototype\\Prototype.pyproj|solutionrelative:Prototype\\utils\\server.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43373FB-2080-401E-8F33-BA837DAD7942}|Prototype\\Prototype.pyproj|C:\\Users\\TheOGLynx\\OneDrive\\Desktop\\Dissertation\\Python\\Prototype\\Prototype\\utils\\utils.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E43373FB-2080-401E-8F33-BA837DAD7942}|Prototype\\Prototype.pyproj|solutionrelative:Prototype\\utils\\utils.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "prototype.py",
+              "DocumentMoniker": "C:\\Users\\TheOGLynx\\OneDrive\\Desktop\\Dissertation\\Python\\Prototype\\Prototype\\Prototype.py",
+              "RelativeDocumentMoniker": "Prototype\\Prototype.py",
+              "ToolTip": "C:\\Users\\TheOGLynx\\OneDrive\\Desktop\\Dissertation\\Python\\Prototype\\Prototype\\Prototype.py",
+              "RelativeToolTip": "Prototype\\Prototype.py",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-02T11:25:51.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "transcriber.py",
+              "DocumentMoniker": "C:\\Users\\TheOGLynx\\OneDrive\\Desktop\\Dissertation\\Python\\Prototype\\Prototype\\utils\\transcriber.py",
+              "RelativeDocumentMoniker": "Prototype\\utils\\transcriber.py",
+              "ToolTip": "C:\\Users\\TheOGLynx\\OneDrive\\Desktop\\Dissertation\\Python\\Prototype\\Prototype\\utils\\transcriber.py",
+              "RelativeToolTip": "Prototype\\utils\\transcriber.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-14T23:36:19.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "utils.py",
+              "DocumentMoniker": "C:\\Users\\TheOGLynx\\OneDrive\\Desktop\\Dissertation\\Python\\Prototype\\Prototype\\utils\\utils.py",
+              "RelativeDocumentMoniker": "Prototype\\utils\\utils.py",
+              "ToolTip": "C:\\Users\\TheOGLynx\\OneDrive\\Desktop\\Dissertation\\Python\\Prototype\\Prototype\\utils\\utils.py",
+              "RelativeToolTip": "Prototype\\utils\\utils.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-14T23:36:19.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "server.py",
+              "DocumentMoniker": "C:\\Users\\TheOGLynx\\OneDrive\\Desktop\\Dissertation\\Python\\Prototype\\Prototype\\utils\\server.py",
+              "RelativeDocumentMoniker": "Prototype\\utils\\server.py",
+              "ToolTip": "C:\\Users\\TheOGLynx\\OneDrive\\Desktop\\Dissertation\\Python\\Prototype\\Prototype\\utils\\server.py",
+              "RelativeToolTip": "Prototype\\utils\\server.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-14T23:36:18.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "recording.py",
+              "DocumentMoniker": "C:\\Users\\TheOGLynx\\OneDrive\\Desktop\\Dissertation\\Python\\Prototype\\Prototype\\utils\\recording.py",
+              "RelativeDocumentMoniker": "Prototype\\utils\\recording.py",
+              "ToolTip": "C:\\Users\\TheOGLynx\\OneDrive\\Desktop\\Dissertation\\Python\\Prototype\\Prototype\\utils\\recording.py",
+              "RelativeToolTip": "Prototype\\utils\\recording.py",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAB0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-14T23:36:12.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "processor.py",
+              "DocumentMoniker": "C:\\Users\\TheOGLynx\\OneDrive\\Desktop\\Dissertation\\Python\\Prototype\\Prototype\\utils\\processor.py",
+              "RelativeDocumentMoniker": "Prototype\\utils\\processor.py",
+              "ToolTip": "C:\\Users\\TheOGLynx\\OneDrive\\Desktop\\Dissertation\\Python\\Prototype\\Prototype\\utils\\processor.py",
+              "RelativeToolTip": "Prototype\\utils\\processor.py",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-14T23:36:00.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
