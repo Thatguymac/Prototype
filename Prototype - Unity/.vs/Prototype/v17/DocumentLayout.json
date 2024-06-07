@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity Backups\\Prototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1235EE4-71EE-C815-28F8-C3378E5ADB84}|Assembly-CSharp.csproj|e:\\unity backups\\prototype\\assets\\4.scripts\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1235EE4-71EE-C815-28F8-C3378E5ADB84}|Assembly-CSharp.csproj|solutionrelative:assets\\4.scripts\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1235EE4-71EE-C815-28F8-C3378E5ADB84}|Assembly-CSharp.csproj|E:\\Unity Backups\\Prototype\\assets\\4.scripts\\animationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1235EE4-71EE-C815-28F8-C3378E5ADB84}|Assembly-CSharp.csproj|solutionrelative:assets\\4.scripts\\animationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1235EE4-71EE-C815-28F8-C3378E5ADB84}|Assembly-CSharp.csproj|E:\\Unity Backups\\Prototype\\assets\\4.scripts\\animations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1235EE4-71EE-C815-28F8-C3378E5ADB84}|Assembly-CSharp.csproj|solutionrelative:assets\\4.scripts\\animations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1235EE4-71EE-C815-28F8-C3378E5ADB84}|Assembly-CSharp.csproj|E:\\Unity Backups\\Prototype\\assets\\4.scripts\\sign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1235EE4-71EE-C815-28F8-C3378E5ADB84}|Assembly-CSharp.csproj|solutionrelative:assets\\4.scripts\\sign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1235EE4-71EE-C815-28F8-C3378E5ADB84}|Assembly-CSharp.csproj|E:\\Unity Backups\\Prototype\\assets\\4.scripts\\incomingresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1235EE4-71EE-C815-28F8-C3378E5ADB84}|Assembly-CSharp.csproj|solutionrelative:assets\\4.scripts\\incomingresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sign.cs",
+              "DocumentMoniker": "E:\\Unity Backups\\Prototype\\Assets\\4.Scripts\\Sign.cs",
+              "RelativeDocumentMoniker": "Assets\\4.Scripts\\Sign.cs",
+              "ToolTip": "E:\\Unity Backups\\Prototype\\Assets\\4.Scripts\\Sign.cs",
+              "RelativeToolTip": "Assets\\4.Scripts\\Sign.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T19:12:11.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animations.cs",
+              "DocumentMoniker": "E:\\Unity Backups\\Prototype\\Assets\\4.Scripts\\Animations.cs",
+              "RelativeDocumentMoniker": "Assets\\4.Scripts\\Animations.cs",
+              "ToolTip": "E:\\Unity Backups\\Prototype\\Assets\\4.Scripts\\Animations.cs",
+              "RelativeToolTip": "Assets\\4.Scripts\\Animations.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAACwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T17:34:47.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnimationController.cs",
+              "DocumentMoniker": "E:\\Unity Backups\\Prototype\\Assets\\4.Scripts\\AnimationController.cs",
+              "RelativeDocumentMoniker": "Assets\\4.Scripts\\AnimationController.cs",
+              "ToolTip": "E:\\Unity Backups\\Prototype\\Assets\\4.Scripts\\AnimationController.cs",
+              "RelativeToolTip": "Assets\\4.Scripts\\AnimationController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAABBwDMAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T17:21:16.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TCPServer.cs",
+              "DocumentMoniker": "E:\\Unity Backups\\Prototype\\Assets\\4.Scripts\\TCPServer.cs",
+              "RelativeDocumentMoniker": "Assets\\4.Scripts\\TCPServer.cs",
+              "ToolTip": "E:\\Unity Backups\\Prototype\\Assets\\4.Scripts\\TCPServer.cs",
+              "RelativeToolTip": "Assets\\4.Scripts\\TCPServer.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:19:41.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IncomingResponses.cs",
+              "DocumentMoniker": "E:\\Unity Backups\\Prototype\\Assets\\4.Scripts\\IncomingResponses.cs",
+              "RelativeDocumentMoniker": "Assets\\4.Scripts\\IncomingResponses.cs",
+              "ToolTip": "E:\\Unity Backups\\Prototype\\Assets\\4.Scripts\\IncomingResponses.cs",
+              "RelativeToolTip": "Assets\\4.Scripts\\IncomingResponses.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T13:47:09.983Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

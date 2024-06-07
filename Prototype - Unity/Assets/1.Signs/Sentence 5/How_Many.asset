@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f845fb3c6bc22f9408c1dee2aadcc38f, type: 3}
+  m_Name: How_Many
+  m_EditorClassIdentifier: 
+  Name: how_many
+  Index: 19
+  Animation: {fileID: 7400000, guid: 79fcfd1e8dfa8c146a5957f8837824f0, type: 2}
+  FadeDuration: 0.35
+  Speed: 1
